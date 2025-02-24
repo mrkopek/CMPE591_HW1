@@ -8,6 +8,7 @@
 ![loss_deconv](https://github.com/user-attachments/assets/40f911dc-3eab-4ae8-a44f-f41873fd018d)
 
 Outputs of the model
+
 ![trial1](https://github.com/user-attachments/assets/0516559d-18c1-4258-b4c4-2870d0539256)
 ![trial2](https://github.com/user-attachments/assets/8c3afc4e-6e75-4b5e-aedd-e5864f6cb557)
 ![trial3](https://github.com/user-attachments/assets/1dcfe58f-ea2b-4e65-9750-49d4c84a422b)
